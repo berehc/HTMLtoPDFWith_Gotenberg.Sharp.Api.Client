@@ -1,0 +1,10 @@
+# Archivos y directorios generados automáticamente
+bin/
+obj/
+
+# Archivos de configuración locales
+*.suo
+*.user
+*.sln.docstates
+*.vscode/
+*.vs/
